@@ -1,4 +1,4 @@
-# Auto Accept Requests 插件(适配dev分支)(核心API仍未适配,占时不可用)
+# Auto Accept Requests 插件(适配dev分支)(核心API仍未适配,占时不可用(已发起PR占位通过))
 
 自动同意 Napcat/OneBot 的群邀请、加群申请与好友申请，支持白名单控制、关键词匹配与自动回复通知。
 
